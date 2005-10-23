@@ -1,0 +1,6 @@
+Revision history for Perl extension Sendmail-0.1.
+
+0.01  Sun Oct 23 16:16:58 2005
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Sendmail-0.1
+

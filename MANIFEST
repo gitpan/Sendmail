@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Sendmail.t
+lib/Net/DNS/Sendmail.pm
